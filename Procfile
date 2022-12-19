@@ -1,1 +1,2 @@
-worker: bash start
+worker: npm i @adiwajshing/baileys@latest && bash start
+web: bash start
